@@ -1,7 +1,6 @@
 <h1>Recipe app.</h1>
 <br>
 <h2>Technologies used:</h2>
-<br>
 <ul>
 <li>React</li>
 <li>CSS</li>
@@ -9,7 +8,6 @@
 <li>Node.js</li>
 </ul>
 <h2>Libraries used:</h2>
-<br>
 <ul>
 <li>styled</li>
 <li>React Router</li>
@@ -17,7 +15,6 @@
 <li>Splide</li>
 </ul>
 <h2>What have I learned:</h2>
-<br>
 <ul>
 <li>React Routing</li>
 <li>React Styled</li>
