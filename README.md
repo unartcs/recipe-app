@@ -1,4 +1,5 @@
 <h1>Recipe app.</h1>
+An application connected to an API to browse some of your favorite recipes
 <br>
 <h2>Technologies used:</h2>
 <ul>
