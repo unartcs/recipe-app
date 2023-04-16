@@ -55,7 +55,7 @@ function Veggie() {
 }
 
 const Wrapper = styled.div`
-  margin: 4rem 0rem;
+  margin: 0rem 0rem;
 `;
 
 const Card = styled.div`

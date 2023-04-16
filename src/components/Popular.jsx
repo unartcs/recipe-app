@@ -55,7 +55,7 @@ function Popular() {
 }
 
 const Wrapper = styled.div`
-  margin: 4rem 0rem;
+  margin: 1rem 0rem;
 `;
 
 const Card = styled.div`
