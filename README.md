@@ -8,7 +8,6 @@ LIVE: https://unartcs.github.io/recipe-app/
 <li>React</li>
 <li>CSS</li>
 <li>JSX</li>
-<li>Node.js</li>
 </ul>
 <h2>Libraries used:</h2>
 <ul>
