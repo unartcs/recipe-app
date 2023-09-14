@@ -1,12 +1,13 @@
 <h1>Recipe app.</h1>
 An application connected to an API to browse some of your favorite recipes
 <br>
+LIVE: https://unartcs.github.io/recipe-app/
+<br>
 <h2>Technologies used:</h2>
 <ul>
 <li>React</li>
 <li>CSS</li>
 <li>JSX</li>
-<li>Node.js</li>
 </ul>
 <h2>Libraries used:</h2>
 <ul>
