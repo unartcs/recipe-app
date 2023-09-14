@@ -6,7 +6,7 @@ import { NavLink } from "react-router-dom";
 function Category() {
   return (
     <List>
-            <SLink to={`#/cuisine/American`}>
+      <SLink to={`#/cuisine/American`}>
         <FaHamburger />
         <h4> American</h4>
       </SLink>
